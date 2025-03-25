@@ -21,12 +21,25 @@ A fun and <b>interactive Rock Paper Scissors game</b> built using <b>Python</b> 
 <p>Additionally, the game uses Pillow for image processing and random for computer-generated choices.</p>
           
 <br> 
+
+<p><b>Initial Game Screen:</b> Select Your Move and Set Round Count </p>
+<br>
 <img width="832" alt="Image" src="https://github.com/user-attachments/assets/218df2a4-3b83-4ee3-9ebf-696d531620b0" />
 
-<img width="829" alt="Image" src="https://github.com/user-attachments/assets/9d688dcb-c124-4fa9-aec0-27d64185e31c" />
-
+<br>
+<br>
+<p><b>Round Outcome Display:</b> Computer Wins with Best of 3 Rounds</p>
+<br>
 <img width="1205" alt="Image" src="https://github.com/user-attachments/assets/dcdd23ba-e9c2-4227-9264-91bc7062a546" />
 <br>
 <br>
+
+<h2>🛠️ Installation & Run</h2>
+<ol class="feature-list">
+    <li><strong>Clone the repository</strong> – Use the command <code>git clone <repository-url></code> to clone the project.</li>
+    <li><strong>Install dependencies</strong> – Run <code>pip install -r requirements.txt</code> to install the necessary dependencies.</li>
+    <li><strong>Run the game</strong> – Execute <code>python rockpaper.py</code> to start the game.</li>
+</ol>
+
 
 
