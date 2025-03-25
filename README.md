@@ -13,8 +13,6 @@ A fun and <b>interactive Rock Paper Scissors game</b> built using <b>Python</b> 
         </ul>
 <br>
 
-
-<br>
 <h2>Project Overview: </h2>
         <ul class="feature-list">
             <li><strong>rockpaper.py </strong> – Contains all the code to run the graphical interface of the game using Tkinter. It handles user interactions, image updates, score tracking, and game logic.</li>
