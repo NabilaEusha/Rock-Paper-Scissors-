@@ -21,11 +21,11 @@ A fun and <b>interactive Rock Paper Scissors game</b> built using <b>Python</b> 
 <p>Additionally, the game uses Pillow for image processing and random for computer-generated choices.</p>
           
 <br> 
-<img width="300" alt="1_game_start" src="https://user-images.githubusercontent.com/16225506/182028991-b7fe86a7-22f2-48de-9351-c5cba14ef923.png">
+<img width="832" alt="Image" src="https://github.com/user-attachments/assets/218df2a4-3b83-4ee3-9ebf-696d531620b0" />
 
-<img width="300" alt="2_game_play" src="https://user-images.githubusercontent.com/16225506/182029002-23a6bff2-d391-4529-babc-0131d788613d.png">
+<img width="829" alt="Image" src="https://github.com/user-attachments/assets/9d688dcb-c124-4fa9-aec0-27d64185e31c" />
 
-<img width="300" alt="3_game_result" src="https://user-images.githubusercontent.com/16225506/182029007-a3eba774-ff79-46c7-b810-e44f8cef9ccc.png">
+<img width="1205" alt="Image" src="https://github.com/user-attachments/assets/dcdd23ba-e9c2-4227-9264-91bc7062a546" />
 <br>
 <br>
 
